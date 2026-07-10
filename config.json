@@ -1,0 +1,6 @@
+{
+    "headless": true,
+    "output_format": "csv",
+    "rate_limit": 5,
+    "timeout": 30
+}
